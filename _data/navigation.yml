@@ -1,19 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Education"
-    url: /Education/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/  
     
-  - title: "Project"
+  - title: "Projects"
     url: /project/
         
-  - title: "Experiences"
-    url: /experience/
-    
-  - title: "Awards"
-    url: /award/
