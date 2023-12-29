@@ -56,9 +56,9 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+#twitter:
   username               : &twitter
-facebook:
+#facebook:
   username               :
   app_id                 :
   publisher              :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tingting Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am currently pursuing the Ph.D. degree at Computing technologies from RMIT University under the surpervison of Prof. Zhifeng Bao and Prof. Shane Culpepper. My research interests include data management, data mining, data market, and spatial computing."
   location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
